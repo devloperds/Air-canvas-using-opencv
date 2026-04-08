@@ -16,3 +16,7 @@ This project creates an "Air Canvas" application using OpenCV, MediaPipe, and Py
 
 6.Finally draw the points stored in array on the frames and canvas 
 
+
+<img width="1919" height="1078" alt="Screenshot 2025-02-24 162902" src="https://github.com/user-attachments/assets/baaf49b3-3c61-4a1e-9327-5cfd1a750b2d" />
+
+
