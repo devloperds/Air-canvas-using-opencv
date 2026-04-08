@@ -13,7 +13,7 @@
 </p>
 <br>
 
-<img width="1919" height="1078" alt="Screenshot 2025-02-24 162902" src="https://github.com/user-attachments/assets/77612e0b-dfc9-4e8a-bac1-86a68bc880de" />
+![image alt](https://github.com/devloperds/Air-canvas-using-opencv/blob/924b300c6d69374a80659a9fedfa12261683fef7/Screenshot%202025-02-24%20162902.png)
 
 
 ##  Table of Contents
